@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with Image Labeling for Segmentation. 
 - 💬 Ask me about Identities, Biometrics, Secure Documents, Data Science and Machine Learning
 - 📫 How to reach me: 
--           [@c_bittel on Twitter.](https://twitter.com/c_bittel) <a href=""></a>
--           [Cristian C. Bittel on LinkedIn.](https://www.linkedin.com/in/cristianbittel/)<a href=""></a>
+-           [@c_bittel on Twitter.](https://twitter.com/c_bittel)
+-           [Cristian C. Bittel on LinkedIn.](https://www.linkedin.com/in/cristianbittel/)
 
 
 
